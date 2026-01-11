@@ -1,0 +1,17 @@
+{
+  "name": "renderrito-license-server",
+  "version": "1.0.0",
+  "description": "License verification server for Renderrito AE plugin",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": ["renderrito", "license", "verification"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
